@@ -5,6 +5,11 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+Vue.prototype.$notification = (title, body) => {
+  /* eslint-disable */
+  new Notification(title, { body })
+}
+
 new Vue({
   router,
   store,

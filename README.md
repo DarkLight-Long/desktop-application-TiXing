@@ -1,7 +1,7 @@
 # desktop-soft
 
 ### Warning
-Having been recreated in [desktop-application-TiXing@1.0](https://github.com/DarkLight-Long/eyes-protected).
+Having been recreated in [desktop-application-TiXing@2.0](https://github.com/DarkLight-Long/eyes-protected).
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
